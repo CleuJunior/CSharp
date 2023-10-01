@@ -6,6 +6,7 @@ giving greater concepts about the language using the platform [Exercism](https:/
 
 ### List of Concepts and Challenges:
 
-| Title                      | Subjects                                | Solution                               | 
-|----------------------------|-----------------------------------------|----------------------------------------|
-| [Hello World](hello-world) | `Basics`                                | [Link Here](hello-world/HelloWorld.cs) |
+| Title                                                 | Subjects  | Solution                                                        | 
+|-------------------------------------------------------|-----------|-----------------------------------------------------------------|
+| [Hello World](hello-world)                            | `Initial` | [Link Here](hello-world/HelloWorld.cs)                          |
+| [Lucian's Luscious Lasagna](lucians-luscious-lasagna) | `Basics`  | [Link Here](lucians-luscious-lasagna/LuciansLusciousLasagna.cs) |
