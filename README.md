@@ -13,3 +13,4 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Annalyn's Infiltration](annalyns-infiltration)       | `Booleans`          | [Link Here](annalyns-infiltration/AnnalynsInfiltration.cs)      |
 | [Log Levels](log-levels)                              | `Strings`           | [Link Here](log-levels/LogLevels.cs)                            |
 | [Log Analysis](log-analysis)                          | `Extension Methods` | [Link Here](log-analysis/LogAnalysis.cs)                        |
+| [Phone Number Analysis](phone-number-analysis)        | `Tuples`            | [Link Here](phone-number-analysis/PhoneNumberAnalysis.cs)       |
