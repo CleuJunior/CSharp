@@ -11,3 +11,4 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Hello World](hello-world)                            | `Initial`  | [Link Here](hello-world/HelloWorld.cs)                          |
 | [Lucian's Luscious Lasagna](lucians-luscious-lasagna) | `Basics`   | [Link Here](lucians-luscious-lasagna/LuciansLusciousLasagna.cs) |
 | [Annalyn's Infiltration](annalyns-infiltration)       | `Booleans` | [Link Here](annalyns-infiltration/AnnalynsInfiltration.cs)      |
+| [Log Levels](log-levels)                              | `Strings`  | [Link Here](log-levels/LogLevels.cs)                            |
