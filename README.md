@@ -16,4 +16,5 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Phone Number Analysis](phone-number-analysis)        | `Tuples`                       | [Link Here](phone-number-analysis/PhoneNumberAnalysis.cs)       |
 | [Cars, Assemble!](cars-assemble)                      | `If Statements`, `Numbers`     | [Link Here](cars-assemble/CarsAssemble.cs)                      |
 | [Bob](bob)                                            | `Strings`, `Extension Methods` | [Link Here](bob/Bob.cs)                                         |
-| [Leap](leap)                                          | `If Statements`, `Numbers`,  `Math Operators`  | [Link Here](leap/Leap.cs)                                        |
+| [Leap](leap)                                          | `If Statements`, `Numbers`,  `Math Operators` | [Link Here](leap/Leap.cs)                                        |
+| [Interest is Interesting](interest-is-interesting)    | `Do While Loops`, `Floating Point Numbers`,  `While Loops`  | [Link Here](interest-is-interesting/InterestIsInteresting.cs)                                        |
