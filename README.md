@@ -1,4 +1,5 @@
 # C# Programming Logic <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+
 ### About the Repository
 
 Repository created to learn more about **C#**. Repository with programming logic and challenges that are evolving and
@@ -6,17 +7,18 @@ giving greater concepts about the language using the platform [Exercism](https:/
 
 ### List of Concepts and Challenges:
 
-| Title                                                 | Subjects                      | Solution                                                        | 
-|-------------------------------------------------------|-------------------------------|-----------------------------------------------------------------|
-| [Hello World](hello-world)                            | `Initial`                     | [Link Here](hello-world/HelloWorld.cs)                          |
-| [Lucian's Luscious Lasagna](lucians-luscious-lasagna) | `Basics`                      | [Link Here](lucians-luscious-lasagna/LuciansLusciousLasagna.cs) |
-| [Annalyn's Infiltration](annalyns-infiltration)       | `Booleans`                    | [Link Here](annalyns-infiltration/AnnalynsInfiltration.cs)      |
-| [Log Levels](log-levels)                              | `Strings`                     | [Link Here](log-levels/LogLevels.cs)                            |
-| [Log Analysis](log-analysis)                          | `Extension Methods`           | [Link Here](log-analysis/LogAnalysis.cs)                        |
-| [Phone Number Analysis](phone-number-analysis)        | `Tuples`                      | [Link Here](phone-number-analysis/PhoneNumberAnalysis.cs)       |
-| [Cars, Assemble!](cars-assemble)                      | `If Statements`, `Numbers`    | [Link Here](cars-assemble/CarsAssemble.cs)                      |
-| [Bob](bob)                                            | `Strings`, `Extension Methods` | [Link Here](bob/Bob.cs)                                         |
-| [Leap](leap)                                          | `If Statements`, `Numbers`,  `Math Operators` | [Link Here](leap/Leap.cs)                                        |
-| [Interest is Interesting](interest-is-interesting)    | `Do While Loops`, `Floating Point Numbers`,  `While Loops` | [Link Here](interest-is-interesting/InterestIsInteresting.cs)                                     |
-| [Tim from Marketing](tim-from-marketing)              | `Nullability` | [Link Here](tim-from-marketing/TimFromMarketing.cs)                                       |
-| [Elon's Toys](elons-toys)                             | `Classes`  | [Link Here](elons-toys/ElonsToys.cs)                                        |
+| Title                                                 | Subjects                                                   | Solution                                                        | 
+|-------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|
+| [Hello World](hello-world)                            | `Initial`                                                  | [Link Here](hello-world/HelloWorld.cs)                          |
+| [Lucian's Luscious Lasagna](lucians-luscious-lasagna) | `Basics`                                                   | [Link Here](lucians-luscious-lasagna/LuciansLusciousLasagna.cs) |
+| [Annalyn's Infiltration](annalyns-infiltration)       | `Booleans`                                                 | [Link Here](annalyns-infiltration/AnnalynsInfiltration.cs)      |
+| [Log Levels](log-levels)                              | `Strings`                                                  | [Link Here](log-levels/LogLevels.cs)                            |
+| [Log Analysis](log-analysis)                          | `Extension Methods`                                        | [Link Here](log-analysis/LogAnalysis.cs)                        |
+| [Phone Number Analysis](phone-number-analysis)        | `Tuples`                                                   | [Link Here](phone-number-analysis/PhoneNumberAnalysis.cs)       |
+| [Cars, Assemble!](cars-assemble)                      | `If Statements`, `Numbers`                                 | [Link Here](cars-assemble/CarsAssemble.cs)                      |
+| [Bob](bob)                                            | `Strings`, `Extension Methods`                             | [Link Here](bob/Bob.cs)                                         |
+| [Leap](leap)                                          | `If Statements`, `Numbers`,  `Math Operators`              | [Link Here](leap/Leap.cs)                                       |
+| [Darts](darts)                                        | `Floating Point Numbers`, `If Statements`                  | [Link Here](darts/Darts.cs)                                     |
+| [Interest is Interesting](interest-is-interesting)    | `Do While Loops`, `Floating Point Numbers`,  `While Loops` | [Link Here](interest-is-interesting/InterestIsInteresting.cs)   |
+| [Tim from Marketing](tim-from-marketing)              | `Nullability`                                              | [Link Here](tim-from-marketing/TimFromMarketing.cs)             |
+| [Elon's Toys](elons-toys)                             | `Classes`                                                  | [Link Here](elons-toys/ElonsToys.cs)                            |
