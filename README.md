@@ -19,6 +19,7 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Bob](bob)                                            | `Strings`, `Extension Methods`                             | [Link Here](bob/Bob.cs)                                         |
 | [Leap](leap)                                          | `If Statements`, `Numbers`,  `Math Operators`              | [Link Here](leap/Leap.cs)                                       |
 | [Darts](darts)                                        | `Floating Point Numbers`, `If Statements`                  | [Link Here](darts/Darts.cs)                                     |
+| [Triangle](triangle)                                  | `Floating Point Numbers`, `If Statements`                  | [Link Here](triangle/Triangle.cs)                               |
 | [Interest is Interesting](interest-is-interesting)    | `Do While Loops`, `Floating Point Numbers`,  `While Loops` | [Link Here](interest-is-interesting/InterestIsInteresting.cs)   |
 | [Tim from Marketing](tim-from-marketing)              | `Nullability`                                              | [Link Here](tim-from-marketing/TimFromMarketing.cs)             |
 | [Elon's Toys](elons-toys)                             | `Classes`                                                  | [Link Here](elons-toys/ElonsToys.cs)                            |
