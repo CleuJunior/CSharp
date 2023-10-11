@@ -20,13 +20,14 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Leap](leap)                                          | `If Statements`, `Numbers`,  `Math Operators`             | [Link Here](leap/Leap.cs)                                       |
 | [Darts](darts)                                        | `Floating Point Numbers`, `If Statements`                 | [Link Here](darts/Darts.cs)                                     |
 | [Triangle](triangle)                                  | `Floating Point Numbers`, `If Statements`                 | [Link Here](triangle/Triangle.cs)                               |
-| [Interest is Interesting](interest-is-interesting)    | `Do While Loops`, `Floating Point Numbers`,  `While Loops` | [Link Here](interest-is-interesting/InterestIsInteresting.cs)   |
+| [Interest is Interesting](interest-is-interesting)    | `Do While Loops`, `Floating Point Numbers`, `While Loops` | [Link Here](interest-is-interesting/InterestIsInteresting.cs)   |
 | [Tim from Marketing](tim-from-marketing)              | `Nullability`                                             | [Link Here](tim-from-marketing/TimFromMarketing.cs)             |
 | [Elon's Toys](elons-toys)                             | `Classes`                                                 | [Link Here](elons-toys/ElonsToys.cs)                            |
-| [Space Age](space-age)                                | `Classes`,     `Floating Point Numbers`                   | [Link Here](space-age/SpaceAge.cs)                              |
-| [Book Store](book-store)                              | `Floating Point Numbers`,     `For Loops`                    | [Link Here](book-store/BookStore.cs)                            |
+| [Space Age](space-age)                                | `Classes`, `Floating Point Numbers`                       | [Link Here](space-age/SpaceAge.cs)                              |
+| [Book Store](book-store)                              | `Floating Point Numbers`, `For Loops`                     | [Link Here](book-store/BookStore.cs)                            |
 | [Need for Speed](need-for-speed)                      | `Constructors`                                            | [Link Here](need-for-speed/NeedForSpeed.cs)                     |
 | [Roll the Die](roll-the-die)                          | `Randomness`                                              | [Link Here](roll-the-die/RollTheDie.cs)                         |
-| [Difference of Squares](difference-of-squares)        | `Numbers`   , `Math Operators`                            | [Link Here](difference-of-squares/DifferenceOfSquares.cs)       |
-| [Roman Numerals](roman-numerals)                      | `Numbers`   , `While Loops`    , `Extension Methods`      | [Link Here](roman-numerals/RomanNumerals.cs)                    |
-| [Bird Watcher](bird-watcher)                          | `Arrays`   , `For Loops`    , `Foreach Loops`             | [Link Here](bird-watcher/BirdWatcher.cs)                        |
+| [Difference of Squares](difference-of-squares)        | `Numbers`, `Math Operators`                               | [Link Here](difference-of-squares/DifferenceOfSquares.cs)       |
+| [Roman Numerals](roman-numerals)                      | `Numbers`, `While Loops`, `Extension Methods`             | [Link Here](roman-numerals/RomanNumerals.cs)                    |
+| [Sum of Multiples](sum-of-multiples)                  | `Foreach Loops`, `Numbers`, `Enumerables`                 | [Link Here](sum-of-multiples/SumOfMultiples.cs)                 |
+| [Bird Watcher](bird-watcher)                          | `Arrays`, `For Loops`, `Foreach Loops`                    | [Link Here](bird-watcher/BirdWatcher.cs)                        |
