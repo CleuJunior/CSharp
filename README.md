@@ -28,3 +28,4 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Roll the Die](roll-the-die)                          | `Randomness`                                               | [Link Here](roll-the-die/RollTheDie.cs)                         |
 | [Difference of Squares](difference-of-squares)        | `Numbers`   , `Math Operators`                             | [Link Here](difference-of-squares/DifferenceOfSquares.cs)       |
 | [Roman Numerals](roman-numerals)                      | `Numbers`   , `While Loops`    , `Extension Methods`       | [Link Here](roman-numerals/RomanNumerals.cs)                    |
+| [Bird Watcher](bird-watcher)                          | `Arrays`   , `For Loops`    , `Foreach Loops`              | [Link Here](bird-watcher/BirdWatcher.cs)                        |
