@@ -25,6 +25,7 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Interest is Interesting](interest-is-interesting)    | `Do While Loops`, `Floating Point Numbers`, `While Loops` | [Link Here](interest-is-interesting/InterestIsInteresting.cs)   |
 | [Tim from Marketing](tim-from-marketing)              | `Nullability`                                             | [Link Here](tim-from-marketing/TimFromMarketing.cs)             |
 | [Elon's Toys](elons-toys)                             | `Classes`                                                 | [Link Here](elons-toys/ElonsToys.cs)                            |
+| [Anagram](anagram)                                    | `Arrays`, `Classes`, `Strings`                                     | [Link Here](anagram/Anagram.cs)                               |
 | [Wizards and Warriors](wizards-and-warriors)          | `Inheritance`                                             | [Link Here](wizards-and-warriors/WizardsAndWarriors.cs)         |
 | [Space Age](space-age)                                | `Classes`, `Floating Point Numbers`                       | [Link Here](space-age/SpaceAge.cs)                              |
 | [Book Store](book-store)                              | `Floating Point Numbers`, `For Loops`                     | [Link Here](book-store/BookStore.cs)                            |
