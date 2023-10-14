@@ -32,3 +32,4 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Roman Numerals](roman-numerals)                      | `Numbers`, `While Loops`, `Extension Methods`             | [Link Here](roman-numerals/RomanNumerals.cs)                    |
 | [Sum of Multiples](sum-of-multiples)                  | `Foreach Loops`, `Numbers`, `Enumerables`                 | [Link Here](sum-of-multiples/SumOfMultiples.cs)                 |
 | [Bird Watcher](bird-watcher)                          | `Arrays`, `For Loops`, `Foreach Loops`                    | [Link Here](bird-watcher/BirdWatcher.cs)                        |
+| [Booking up for Beauty](booking-up-for-beauty)        | `Datetimes`                                               | [Link Here](booking-up-for-beauty/BookingUpForBeauty.cs)        |
