@@ -17,7 +17,7 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Phone Number Analysis](phone-number-analysis)        | `Tuples`                                                  | [Link Here](phone-number-analysis/PhoneNumberAnalysis.cs)       |
 | [Cars, Assemble!](cars-assemble)                      | `If Statements`, `Numbers`                                | [Link Here](cars-assemble/CarsAssemble.cs)                      |
 | [Bob](bob)                                            | `Strings`, `Extension Methods`                            | [Link Here](bob/Bob.cs)                                         |
-| [Reverse String](reverse-string)                      | `Strings`, `For Loops`                                    | [Link Here](reverse-string/ReverseString.cs)                                         |
+| [Reverse String](reverse-string)                      | `Strings`, `For Loops`                                    | [Link Here](reverse-string/ReverseString.cs)                    |
 | [Leap](leap)                                          | `If Statements`, `Numbers`,  `Math Operators`             | [Link Here](leap/Leap.cs)                                       |
 | [Darts](darts)                                        | `Floating Point Numbers`, `If Statements`                 | [Link Here](darts/Darts.cs)                                     |
 | [Triangle](triangle)                                  | `Floating Point Numbers`, `If Statements`                 | [Link Here](triangle/Triangle.cs)                               |
@@ -25,6 +25,7 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Interest is Interesting](interest-is-interesting)    | `Do While Loops`, `Floating Point Numbers`, `While Loops` | [Link Here](interest-is-interesting/InterestIsInteresting.cs)   |
 | [Tim from Marketing](tim-from-marketing)              | `Nullability`                                             | [Link Here](tim-from-marketing/TimFromMarketing.cs)             |
 | [Elon's Toys](elons-toys)                             | `Classes`                                                 | [Link Here](elons-toys/ElonsToys.cs)                            |
+| [Wizards and Warriors](wizards-and-warriors)          | `Inheritance`                                             | [Link Here](wizards-and-warriors/WizardsAndWarriors.cs)         |
 | [Space Age](space-age)                                | `Classes`, `Floating Point Numbers`                       | [Link Here](space-age/SpaceAge.cs)                              |
 | [Book Store](book-store)                              | `Floating Point Numbers`, `For Loops`                     | [Link Here](book-store/BookStore.cs)                            |
 | [Need for Speed](need-for-speed)                      | `Constructors`                                            | [Link Here](need-for-speed/NeedForSpeed.cs)                     |
