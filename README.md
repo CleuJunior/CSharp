@@ -26,6 +26,7 @@ giving greater concepts about the language using the platform [Exercism](https:/
 | [Tim from Marketing](tim-from-marketing)              | `Nullability`                                             | [Link Here](tim-from-marketing/TimFromMarketing.cs)             |
 | [Elon's Toys](elons-toys)                             | `Classes`                                                 | [Link Here](elons-toys/ElonsToys.cs)                            |
 | [Resistor Color](resistor-color)                      | `Arrays`                                                  | [Link Here](resistor-color/ResistorColor.cs)                    |
+| [Resistor Color Duo](resistor-color-duo)              | `Arrays`                                                  | [Link Here](resistor-color-duo/ResistorColorDuo.cs)             |
 | [Anagram](anagram)                                    | `Arrays`, `Classes`, `Strings`                            | [Link Here](anagram/Anagram.cs)                                 |
 | [Wizards and Warriors](wizards-and-warriors)          | `Inheritance`                                             | [Link Here](wizards-and-warriors/WizardsAndWarriors.cs)         |
 | [Space Age](space-age)                                | `Classes`, `Floating Point Numbers`                       | [Link Here](space-age/SpaceAge.cs)                              |
